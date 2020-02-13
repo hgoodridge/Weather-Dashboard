@@ -1,1 +1,1 @@
-# Weather-Dashboard
+A weather application that allow the user to search for a specific city and disply the weather for that specific city.
